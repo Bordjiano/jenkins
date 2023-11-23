@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Ivan Misyura, 203 group.
+          Ivan Misyura, 203 group. My favorite book is Harry Potter.
         </p>
         <CurrentTime />
       </header>
