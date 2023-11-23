@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import CurrentTime from './CurrentTime';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
         <p>
           Ivan Misyura, 203 group.
         </p>
+        <CurrentTime />
       </header>
     </div>
   );
