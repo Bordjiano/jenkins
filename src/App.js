@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <CurrentTime />
+        <h1>Kolya Mudrenko</h1>
       </header>
     </div>
   );
